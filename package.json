@@ -1,0 +1,25 @@
+{
+  "name": "goshop",
+  "version": "1.0.0",
+  "description": "Simple Shop webapp written in Node.js. Unfortunately a wasted name, not written in Go :<...",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ergis/goshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ergis/goshop/issues"
+  },
+  "homepage": "https://github.com/Ergis/goshop#readme"
+}
